@@ -1,4 +1,3 @@
-// @ts-nocheck
 import { AddTodo } from './components'
 import { TodoList } from './components'
 
