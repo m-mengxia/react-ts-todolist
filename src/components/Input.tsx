@@ -1,4 +1,3 @@
-// @ts-nocheck
 import { InputHTMLAttributes, forwardRef } from 'react'
 
 export const Input = forwardRef<
