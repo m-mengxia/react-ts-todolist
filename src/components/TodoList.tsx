@@ -1,4 +1,3 @@
-// @ts-nocheck
 import { useTodo } from '../context/useTodo.ts'
 import { TodoItem } from './TodoItem.tsx'
 
