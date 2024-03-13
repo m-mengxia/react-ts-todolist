@@ -1,4 +1,3 @@
-// @ts-nocheck
 import React, { createContext } from 'react'
 import { nanoid } from 'nanoid'
 import { useLocalStorage } from 'usehooks-ts'
