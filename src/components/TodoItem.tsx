@@ -1,4 +1,3 @@
-// @ts-nocheck
 import { useEffect, useRef, useState } from 'react'
 import type { Todo } from '../context'
 import { useTodo } from '../context'
